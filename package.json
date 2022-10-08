@@ -1,0 +1,11 @@
+{
+  "name": "add-two-nums",
+  "version": "1.0.0",
+  "description": "leetcode solution",
+  "main": "add_two_nums.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chinecherem",
+  "license": "ISC"
+}
